@@ -1,0 +1,4 @@
+#Sun Jul 26 04:36:00 IST 2020
+base.0=C\:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

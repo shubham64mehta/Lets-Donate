@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">637385058586-l3i35e10tgml5gjdvonib4iflmcg3ut9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://donate-4420c.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">637385058586</string>
+    <string name="google_api_key" translatable="false">AIzaSyDvfCLnSqb_-7fAPfD3BAS5vuWGJNRzuMQ</string>
+    <string name="google_app_id" translatable="false">1:637385058586:android:1dd88b6b946529a0c3a4a3</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDvfCLnSqb_-7fAPfD3BAS5vuWGJNRzuMQ</string>
+    <string name="google_storage_bucket" translatable="false">donate-4420c.appspot.com</string>
+    <string name="project_id" translatable="false">donate-4420c</string>
+</resources>

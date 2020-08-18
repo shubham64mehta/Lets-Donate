@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\shubh\\.gradle\\caches\\transforms-2\\files-2.1\\e6856c7cff7219f18cbbcc5d8d7cecec\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\shubh\\.gradle\\caches\\transforms-2\\files-2.1\\e6856c7cff7219f18cbbcc5d8d7cecec\\core-1.1.0\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\shubh\\.gradle\\caches\\transforms-2\\files-2.1\\e6856c7cff7219f18cbbcc5d8d7cecec\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\rzp_logo.png",
+        "source": "C:\\Users\\shubh\\.gradle\\caches\\transforms-2\\files-2.1\\b9fcad9acd1dbc111ce30cde592c1749\\checkout-1.5.16\\res\\drawable-xhdpi-v4\\rzp_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\shubh\\.gradle\\caches\\transforms-2\\files-2.1\\e6856c7cff7219f18cbbcc5d8d7cecec\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\shubh\\Desktop\\Hackathon\\donate\\build\\razorpay_flutter\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\shubh\\.gradle\\caches\\transforms-2\\files-2.1\\e6856c7cff7219f18cbbcc5d8d7cecec\\core-1.1.0\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    }
+]
